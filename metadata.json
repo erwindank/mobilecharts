@@ -1,0 +1,6 @@
+{
+  "name": "DankCharts.fm",
+  "description": "High-end luxury chart generator, history visualizer, and certificates wall counterpart for dankcharts.fm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
